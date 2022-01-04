@@ -12,6 +12,7 @@ public class Lv1_직사각형별찍기 {
                 System.out.print("*");
             }
             System.out.println();
+            
         }
     }
 }
